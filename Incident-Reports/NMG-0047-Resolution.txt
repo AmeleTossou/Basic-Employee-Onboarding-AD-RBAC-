@@ -1,0 +1,23 @@
+1. Jane is in the correct OU? NO
+- I Found that Jane Cooper is currently in the operation OU. She should be in the HE OU
+2. Jane is a HR Payroll specialist and supposed to be in HR OU But I found that she was in the Operation OU insted.
+3. Jane Cooper is currently a member of operations-users. She should be a member of HR-User.
+
+
+The reason: Jane was placed in the wrong group and has been assign to the wrong roles.
+
+Ticket number: NMG-0047
+
+Affected user: Jane Cooper ( jcooper@NMG.com)
+
+Issue reported: Unable to access HR shared resources. Desktop policies and mapped drives differ from teammates.
+
+Root cause: This issue occured because Jane Cooper was placed inside the wrong OU and Security Group! This led to her being granted the wrong scope of access.
+
+Fix applied: To fix this issue, I simply moved Jane Cooper into the correct OU for HR.I also changed her security group to HR-Useers
+
+Verification: I confirmed the issue was resolved by reviewing the OU and the Security Group Members list and taking screenshots.
+
+Date resolved: 8/21/2026
+
+Resolved by : Amele Tossou
