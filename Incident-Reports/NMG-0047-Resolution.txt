@@ -1,10 +1,10 @@
 1. Jane is in the correct OU? NO
-- I Found that Jane Cooper is currently in the operation OU. She should be in the HE OU
-2. Jane is a HR Payroll specialist and supposed to be in HR OU But I found that she was in the Operation OU insted.
-3. Jane Cooper is currently a member of operations-users. She should be a member of HR-User.
+- I found that Jane Cooper is currently in the operation OU. She should be in the HR OU.
+2. Jane is HR Payroll specialist and supposed to be in HR OU but I found that she was in the Operation OU insted.
+3. Jane Cooper is currently a member of operations-users. She should be a member of HR-Users.
 
 
-The reason: Jane was placed in the wrong group and has been assign to the wrong roles.
+The reason: Jane was placed in the wrong group and has been assigned to the wrong roles.
 
 Ticket number: NMG-0047
 
@@ -14,7 +14,7 @@ Issue reported: Unable to access HR shared resources. Desktop policies and mappe
 
 Root cause: This issue occured because Jane Cooper was placed inside the wrong OU and Security Group! This led to her being granted the wrong scope of access.
 
-Fix applied: To fix this issue, I simply moved Jane Cooper into the correct OU for HR.I also changed her security group to HR-Useers
+Fix applied: To fix this issue, I simply moved Jane Cooper from the wrong OU to the correct OU for HR. I also changed her security group to HR-Users
 
 Verification: I confirmed the issue was resolved by reviewing the OU and the Security Group Members list and taking screenshots.
 
