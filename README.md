@@ -2,7 +2,7 @@
 
 ## Problem Statement
 The project is about NorthStar a progressive growing fictional healthcare company that delegated its identity Lifecycle Management (ILM) processes to a third-parties MSP. Their was no ARBAC policy in place  and The company later started developing significant weaknesses, ad-hoc user access assignments. And also there was  absence of audit trails made it difficult to track the account management. These gaps increased the HIPAA compliances risks.
-[Provide 3 to 5 sentences describing what was broken at NorthStar Medical Group. Mention the MSP mismanagement, lack of structure, manual processes, and HIPAA risks that existed before your project.]
+
 
 ## Solution Overview
 I build a basic Active Directory onboarding pipeline and created an RBAC matrix to ensure users received only role-appropriate access. I also simulated a ticket where a user received wrong access to demonstrate how the issue could be identified and corrected
