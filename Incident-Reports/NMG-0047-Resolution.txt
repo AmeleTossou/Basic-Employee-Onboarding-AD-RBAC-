@@ -8,7 +8,7 @@ The reason: Jane was placed in the wrong group and has been assigned to the wron
 
 Ticket number: NMG-0047
 
-Affected user: Jane Cooper ( jcooper@NMG.com)
+Affected user: Jane Cooper (jcooper@NMG.com)
 
 Issue reported: Unable to access HR shared resources. Desktop policies and mapped drives differ from teammates.
 
