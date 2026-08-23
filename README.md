@@ -5,6 +5,7 @@ The project is about NorthStar a progressive growing fictional healthcare compan
 [Provide 3 to 5 sentences describing what was broken at NorthStar Medical Group. Mention the MSP mismanagement, lack of structure, manual processes, and HIPAA risks that existed before your project.]
 
 ## Solution Overview
+I build a basic Active Directory onboarding pipeline and created an RBAC matrix to ensure users received only role-appropriate access. I also simulated a ticket where a user received wrong access to demonstrate how the issue could be identified and corrected
 [Provide 4 to 6 sentences describing what you built and how it solved the problem. Cover the new domain creation, the structural OU design, the security groups, the flat RBAC model, and how user provisioning was secured.]
 
 ## Video Walkthrough
