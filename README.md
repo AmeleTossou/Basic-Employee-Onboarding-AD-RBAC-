@@ -5,7 +5,7 @@ The project is about NorthStar a progressive growing fictional healthcare compan
 
 
 ## Solution Overview
-I build a basic Active Directory onboarding pipeline and created an RBAC matrix to ensure users received only role-appropriate access. I also simulated a ticket where a user received wrong access to demonstrate how the issue could be identified and corrected
+I build a basic Active Directory onboarding pipeline and created an RBAC matrix to ensure users received only role-appropriate access. I also simulated a ticket where a user received wrong access to demonstrate how the issue could be identified and corrected.
 
 
 ## Video Walkthrough
@@ -28,5 +28,5 @@ I build a basic Active Directory onboarding pipeline and created an RBAC matrix 
 
 ## Key Accomplishments
 * Built NMG.com domain from scratch
-* [Add your second key accomplishment here]
-* [Add your third key accomplishment here]
+* Solved a mock ticket where a user was given the incorrect access.
+* I fully documented my steps end-to-end
