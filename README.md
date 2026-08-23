@@ -9,7 +9,7 @@ I build a basic Active Directory onboarding pipeline and created an RBAC matrix 
 
 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+Share
 
 ## Tools Used
 * Windows Server
